@@ -3,7 +3,7 @@ function happyHolidays() {
 }
 
 function happyHolidaysToo(name) {
-  return `Happy holidays, ${name}`
+  return `Happy holidays, ${name}!`
 }
 
 function holidayCountdown(days, holiday) {
